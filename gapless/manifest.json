@@ -86,39 +86,47 @@
             }
         ]
     },
-    "structures": {
-        "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/structure/1",
-        "type": "Range",
-        "viewingHint": "top",
-        "label": "Beethoven",
-        "members": [
-            {
-                "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/range/1",
-                "type": "Range",
-                "label": "Part 1",
-                "members": {
-                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1#t=0,4",
-                    "type": "Canvas"
+    "structures": [
+        {
+            "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/structure/1",
+            "type": "Range",
+            "viewingHint": "top",
+            "label": "Beethoven",
+            "members": [
+                {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/range/1",
+                    "type": "Range",
+                    "label": "Part 1",
+                    "members": [
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1#t=0,4",
+                            "type": "Canvas"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/range/2",
+                    "type": "Range",
+                    "label": "Part 2",
+                    "members": [
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1#t=4,12",
+                            "type": "Canvas"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/range/3",
+                    "type": "Range",
+                    "label": "Part 3",
+                    "members": [
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1#t=12,15",
+                            "type": "Canvas"
+                        }
+                    ]
                 }
-            },
-            {
-                "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/range/2",
-                "type": "Range",
-                "label": "Part 2",
-                "members": {
-                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1#t=4,12",
-                    "type": "Canvas"
-                }
-            },
-            {
-                "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/range/3",
-                "type": "Range",
-                "label": "Part 3",
-                "members": {
-                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1#t=12,15",
-                    "type": "Canvas"
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }
