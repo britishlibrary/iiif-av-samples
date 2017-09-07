@@ -103,7 +103,7 @@
                             "type": "Range",
                             "label": "Part 1",
                             "members": [
-                                {-1
+                                {
                                     "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1#t=0,4",
                                     "type": "Canvas"
                                 }
