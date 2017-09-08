@@ -1,0 +1,346 @@
+{
+    "context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/manifest.json",
+    "type": "Manifest",
+    "label": "Brandenburg Concerto no. 1 in F major, BWV. 1046 by Johann Sebastian Bach",
+    "description": "Brandenburg Concerto no. 1 in F major, BWV. 1046",
+    "attribution": "Public Domain",
+    "metadata": [
+        {
+            "label": "Composer",
+            "value": "Johann Sebastian Bach"
+        },
+        {
+            "label": "Form",
+            "value": "Concerto"
+        },
+        {
+            "label": "Instrument",
+            "value": "Orchestra"
+        },
+        {
+            "label": "Period",
+            "value": "Baroque"
+        }
+    ],
+    "sequences": {
+        "type": "Sequence",
+        "canvases": [
+            {
+                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/1",
+                "duration": 1452.25,
+                "content": [
+                    {
+                        "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/page/1",
+                        "type": "AnnotationPage",
+                        "items": [
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/1-1",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": " https://britishlibrary.github.io/iiif-av-samples/symphony/audio/J.S%20Bach%20-%20Brandenburg%20Concerto%20No.1%20in%20F%20major%20-%20I.%20Allegro%20b.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/1#t=0,291.53"
+                            },                            
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/1-2",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/J.S%20Bach%20-%20Brandenburg%20Concerto%20No.1%20in%20F%20major%20-%20II.%20Adagio%20-%20Allegro.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/1#t=291.54,917.02"
+                            },
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/1-3",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/J.S%20Bach%20-%20Brandenburg%20Concerto%20No.1%20in%20F%20major%20-%20III.%20Menuetto.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/1#t=917.03,1452.25"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/2",
+                "duration": 1287.71,
+                "content": [
+                    {
+                        "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/page/2",
+                        "type": "AnnotationPage",
+                        "items": [
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/2-1",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": " https://britishlibrary.github.io/iiif-av-samples/symphony/audio/1205_bwv1046i-15acccca-c56e-4c3b-be8e-b3c88604f046.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/2#t=0,281.98"
+                            },                            
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/2-2",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/1205_bwv1046ii-48e63323-7a18-44ce-9548-4b6b311e38ce.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/2#t=281.99,531.34"
+                            },
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/2-3",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/1205_bwv1046iii-09af55c4-95b3-4bbe-93ad-3daf890029fe.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/2#t=531.35,790.45"
+                            },
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/2-4",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/1205_bwv1046iv-2778970b-9db2-4785-96e1-210c8ac9421b.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/2#t=790.46,1287.71"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/3",
+                "duration": 1132.91,
+                "attribution": "International Music Score Library Project",
+                "content": [
+                    {
+                        "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/page/3",
+                        "type": "AnnotationPage",
+                        "items": [
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/3-1",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": " https://britishlibrary.github.io/iiif-av-samples/symphony/audio/IMSLP185255-PMLP82076-S046-01-hbr.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/3#t=0,259.27"
+                            },                            
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/3-2",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/IMSLP185256-PMLP82076-S046-02-hbr.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/3#t=259.28,499.97"
+                            },
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/3-3",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/IMSLP185257-PMLP82076-S046-03-hbr.mp3fe.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/3#t=499.98,741.17"
+                            },
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/content/anno/3-4",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/IMSLP185258-PMLP82076-S046-04-hbr.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/3#t=741.18,1132.91"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "structures": [
+        {
+            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/0",
+            "type": "Range",
+            "viewingHint": "top",
+            "label": "Brandenburg Concerto no. 1 in F major, BWV. 1046",
+            "members": [
+                {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/1",
+                    "type": "Range",
+                    "label": "Complete Performance",
+                    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+                    "attribution": "European Archive",
+                    "members": [
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/1-1",
+                            "type": "Range",
+                            "label": "I. Allegro",
+                            "members": 
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/1#t=0,291.53",
+                                    "type": "Canvas"
+                                }
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/1-2",
+                            "type": "Range",
+                            "label": "II. Adagio - III. Allegro",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/1#t=291.54,917.02",
+                                    "type": "Canvas"
+                                }
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/1-3",
+                            "type": "Range",
+                            "label": "IV. Menuetto",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/1#t=917.03,1452.25",
+                                    "type": "Canvas"
+                                }
+                        }
+                    ]
+                },
+                {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/2",
+                    "type": "Range",
+                    "label": "Arr. for Trumpet and Organ",
+                    "rights": "https://creativecommons.org/licenses/by/3.0/",
+                    "metadata" : [
+                        {
+                            "label": "Performer",
+                            "value": "Michel Rondeau"
+                        }
+                    ],
+                    "members": [
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/2-1",
+                            "type": "Range",
+                            "label": "I. Allegro",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/2#t=0,281.98",
+                                    "type": "Canvas"
+                                }
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/2-2",
+                            "type": "Range",
+                            "label": "II. Adagio",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/2#t=281.99,531.34",
+                                    "type": "Canvas"
+                                }
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/2-2",
+                            "type": "Range",
+                            "label": "III. Menuetto",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/2#t=531.35,790.45",
+                                    "type": "Canvas"
+                                }
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/2-2",
+                            "type": "Range",
+                            "label": "IV. Menuetto",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/2#t=790.46,1287.71",
+                                    "type": "Canvas"
+                                }
+                        }
+                    ]
+                },
+                {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/3",
+                    "type": "Range",
+                    "label": "Arr. for Recorder Ensemble",
+                    "rights": "https://creativecommons.org/licenses/by/3.0/",
+                    "metadata" : [
+                        {
+                            "label": "Performer",
+                            "value": "Papalin"
+                        }
+                    ],
+                    "members": [
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/3-1",
+                            "type": "Range",
+                            "label": "I. Allegro",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/3#t=0,259.27",
+                                    "type": "Canvas"
+                                }
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/3-2",
+                            "type": "Range",
+                            "label": "II. Adagio",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/3#t=259.28,499.97",
+                                    "type": "Canvas"
+                                }
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/3-2",
+                            "type": "Range",
+                            "label": "III. Menuetto",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/3#t=499.98,741.17",
+                                    "type": "Canvas"
+                                }
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/range/3-2",
+                            "type": "Range",
+                            "label": "IV. Menuetto",
+                            "members":
+                                {
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/canvas/3#t=741.18,1132.91",
+                                    "type": "Canvas"
+                                }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
