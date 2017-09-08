@@ -39,7 +39,7 @@
                                 "type": "Annotation",
                                 "motivation": "painting",
                                 "body": {
-                                    "id": " https://britishlibrary.github.io/iiif-av-samples/symphony/audio/J.S%20Bach%20-%20Brandenburg%20Concerto%20No.1%20in%20F%20major%20-%20I.%20Allegro%20b.mp3",
+                                    "id": " https://britishlibrary.github.io/iiif-av-samples/symphony/audio/Allegro.mp3",
                                     "type": "Audio",
                                     "format": "audio/mp3"
                                 },
@@ -50,7 +50,7 @@
                                 "type": "Annotation",
                                 "motivation": "painting",
                                 "body": {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/J.S%20Bach%20-%20Brandenburg%20Concerto%20No.1%20in%20F%20major%20-%20II.%20Adagio%20-%20Allegro.mp3",
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/Adagio-Allegro.mp3",
                                     "type": "Audio",
                                     "format": "audio/mp3"
                                 },
@@ -61,7 +61,7 @@
                                 "type": "Annotation",
                                 "motivation": "painting",
                                 "body": {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/J.S%20Bach%20-%20Brandenburg%20Concerto%20No.1%20in%20F%20major%20-%20III.%20Menuetto.mp3",
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/Menuetto.mp3",
                                     "type": "Audio",
                                     "format": "audio/mp3"
                                 },
@@ -163,7 +163,7 @@
                                 "type": "Annotation",
                                 "motivation": "painting",
                                 "body": {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/IMSLP185257-PMLP82076-S046-03-hbr.mp3fe.mp3",
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/symphony/audio/IMSLP185257-PMLP82076-S046-03-hbr.mp3",
                                     "type": "Audio",
                                     "format": "audio/mp3"
                                 },
