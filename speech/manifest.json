@@ -1,0 +1,67 @@
+{
+    "context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://britishlibrary.github.io/iiif-av-samples/speech/manifest.json",
+    "type": "Manifest",
+    "label": "Apollo 14",
+    "description": "The Apollo 14 mission",
+    "attribution": "<span>Public Domain<br/><br/>Digitized, cataloged and archived by the Houston Audio Control Room, at the NASA Johnson Space Center</span>",
+    "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata": [
+
+    ],
+    "sequences": {
+        "type": "Sequence",
+        "canvases": [
+            {
+                "id": "https://britishlibrary.github.io/iiif-av-samples/speech/canvas/1",
+                "duration": 6291.38,
+                "width": 944,
+                "height": 593,
+                "content": [
+                    {
+                        "id": "https://britishlibrary.github.io/iiif-av-samples/speech/content/page/1",
+                        "type": "AnnotationPage",
+                        "items": [
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/speech/content/anno/1-0",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": " https://britishlibrary.github.io/iiif-av-samples/speech/441-AAA_spectrogram.png",
+                                    "type": "Image",
+                                    "format": "image/png",
+                                    "width": 944,
+                                    "height": 593
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/speech/canvas/1"
+
+                            },
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/speech/content/anno/1-1",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": " https://britishlibrary.github.io/iiif-av-samples/speech/audio/441-AAA.mp3",
+                                    "type": "Audio",
+                                    "format": "audio/mp3"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/speech/canvas/1#t=0,6291.38"
+                            },
+                            {
+                                "id": "https://britishlibrary.github.io/iiif-av-samples/speech/content/anno/1-2",
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "type": "TextualBody",
+                                    "format": "text/plain",
+                                    "value": "This"
+                                },
+                                "target": "https://britishlibrary.github.io/iiif-av-samples/speech/canvas/1#t=2,4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
