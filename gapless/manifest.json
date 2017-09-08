@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": "Gapless audio playback",
     "description": "One IIIF canvas annotated with a partial movement, segmented into six delivery files",
-    "attribution": "Public Domain"
+    "attribution": "Public Domain",
     "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
     "metadata": [
         {
