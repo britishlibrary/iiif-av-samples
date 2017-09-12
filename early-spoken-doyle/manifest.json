@@ -128,7 +128,7 @@
                             "label": "Side 1",
                             "members": [
                                 {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1",
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0",
                                     "type": "Canvas"
                                 }
                             ]
@@ -139,7 +139,7 @@
                             "label": "Side 2",
                             "members": [
                                 {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2",
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0",
                                     "type": "Canvas"
                                 }
                             ]
