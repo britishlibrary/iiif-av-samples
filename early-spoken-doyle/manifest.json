@@ -69,7 +69,7 @@
                     }
                 ]
             },
-                        {
+            {
                 "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2",
                 "duration": 246.25,
                 "width": 700,
@@ -112,64 +112,35 @@
     },
     "structures": [
         {
-            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/0",
+            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1",
             "type": "Range",
             "viewingHint": "top",
-            "label": "Sir Arthur Conan Doyle",
+            "label": "Physical Carrier",
             "members": [
                 {
-                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1",
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1",
                     "type": "Range",
-                    "label": "Sir Arthur Conan Doyle Speaking",
+                    "label": "Disc 1",
                     "members": [
                         {
-                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1",
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1-1",
                             "type": "Range",
-                            "label": "Part 1",
+                            "label": "Side 1",
                             "members": [
                                 {
                                     "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1",
                                     "type": "Canvas"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1-2",
+                            "type": "Range",
+                            "label": "Side 2",
+                            "members": [
                                 {
                                     "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2",
                                     "type": "Canvas"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/2",
-                    "type": "Range",
-                    "label": "Physical Carrier",
-                    "members": [
-                        {
-                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/2-1",
-                            "type": "Range",
-                            "label": "Disc 1",
-                            "members": [
-                                {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/2-1-1",
-                                    "type": "Range",
-                                    "label": "Side 1",
-                                    "members": [
-                                        {
-                                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1",
-                                            "type": "Canvas"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/2-1-2",
-                                    "type": "Range",
-                                    "label": "Side 2",
-                                    "members": [
-                                        {
-                                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2",
-                                            "type": "Canvas"
-                                        }
-                                    ]
                                 }
                             ]
                         }
