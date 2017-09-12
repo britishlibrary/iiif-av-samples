@@ -47,7 +47,7 @@
                                 "body": {
                                     "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/024I-1CL0013693XX-AAZZA0.jpg",
                                     "type": "Image",
-                                    "format": "image/png",
+                                    "format": "image/jpg",
                                     "width": 700,
                                     "height": 695
                                 },
@@ -61,7 +61,7 @@
                                 "body": {
                                     "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/audio/024A-1CL0013693XX-AAZZM0.mp4",
                                     "type": "Audio",
-                                    "format": "audio/mp3"
+                                    "format": "audio/mp4"
                                 },
                                 "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.78"
                             }
@@ -86,7 +86,7 @@
                                 "body": {
                                     "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/024I-1CL0013693XX-AAZZA0.jpg",
                                     "type": "Image",
-                                    "format": "image/png",
+                                    "format": "image/jpg",
                                     "width": 700,
                                     "height": 695
                                 },
@@ -100,7 +100,7 @@
                                 "body": {
                                     "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/audio/024A-1CL0013693XX-ABZZM0.mp4",
                                     "type": "Audio",
-                                    "format": "audio/mp3"
+                                    "format": "audio/mp4"
                                 },
                                 "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0,246.25"
                             }
