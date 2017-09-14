@@ -33,7 +33,7 @@
             "canvases": [
                 {
                     "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1",
-                    "duration": 232.78,
+                    "duration": 479.03,
                     "width": 700,
                     "height": 695,
                     "content": [
@@ -65,37 +65,9 @@
                                         "format": "audio/mp4"
                                     },
                                     "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.78"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2",
-                    "duration": 246.25,
-                    "width": 700,
-                    "height": 695,
-                    "content": [
-                        {
-                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/page/2",
-                            "type": "AnnotationPage",
-                            "items": [
-                                {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/anno/2-0",
-                                    "type": "Annotation",
-                                    "motivation": "painting",
-                                    "body": {
-                                        "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/024I-1CL0013693XX-AAZZA0.jpg",
-                                        "type": "Image",
-                                        "format": "image/jpg",
-                                        "width": 700,
-                                        "height": 695
-                                    },
-                                    "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2"
-
                                 },
                                 {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/anno/2-1",
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/anno/1-2",
                                     "type": "Annotation",
                                     "motivation": "painting",
                                     "body": {
@@ -103,7 +75,7 @@
                                         "type": "Audio",
                                         "format": "audio/mp4"
                                     },
-                                    "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0,246.25"
+                                    "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=232.78,479.03"
                                 }
                             ]
                         }
@@ -130,7 +102,7 @@
                             "label": "Side 1",
                             "members": [
                                 {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0",
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.78",
                                     "type": "Canvas"
                                 }
                             ]
@@ -141,7 +113,7 @@
                             "label": "Side 2",
                             "members": [
                                 {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0",
+                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=232.78,479.03",
                                     "type": "Canvas"
                                 }
                             ]
