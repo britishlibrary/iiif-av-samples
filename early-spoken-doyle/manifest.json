@@ -119,6 +119,18 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/2-1",
+                    "type": "Range",
+                    "label": "Conan Doyle speaking",
+                    "members": [
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,479.03",
+                            "type": "Canvas"
+                                
+                        }
+                    ]
                 }
             ]
         }
