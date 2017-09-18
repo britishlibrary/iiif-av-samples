@@ -15,7 +15,7 @@
             "canvases": [
                 {
                     "id": "https://britishlibrary.github.io/iiif-av-samples/speech/canvas/1",
-                    "duration": 6291.38,
+                    "duration": 11691.38,
                     "width": 944,
                     "height": 593,
                     "content": [
@@ -31,7 +31,7 @@
                                         "id": " https://britishlibrary.github.io/iiif-av-samples/speech/441-AAA_spectrogram.png",
                                         "type": "Image",
                                         "format": "image/png",
-                                        "width": 944,
+                                        "width": 944
                                         "height": 593
                                     },
                                     "target": "https://britishlibrary.github.io/iiif-av-samples/speech/canvas/1"
@@ -47,19 +47,12 @@
                                         "format": "audio/mp3"
                                     },
                                     "target": "https://britishlibrary.github.io/iiif-av-samples/speech/canvas/1#t=0,6291.38"
-                                },
-                                {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/speech/content/anno/1-2",
-                                    "type": "Annotation",
-                                    "motivation": "painting",
-                                    "body": {
-                                        "type": "TextualBody",
-                                        "format": "text/plain",
-                                        "value": "This"
-                                    },
-                                    "target": "https://britishlibrary.github.io/iiif-av-samples/speech/canvas/1#xywh=350,500,50,25&t=2,4"
                                 }
                             ]
+                        },
+                        {
+                            "id": "https://britishlibrary.github.io/iiif-av-samples/speech/anno.json",
+                            "type": "AnnotationPage"
                         }
                     ]
                 }
