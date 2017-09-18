@@ -31,7 +31,7 @@
                                         "id": " https://britishlibrary.github.io/iiif-av-samples/speech/441-AAA_spectrogram.png",
                                         "type": "Image",
                                         "format": "image/png",
-                                        "width": 944
+                                        "width": 944,
                                         "height": 593
                                     },
                                     "target": "https://britishlibrary.github.io/iiif-av-samples/speech/canvas/1"
