@@ -109,52 +109,44 @@
     {
       "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1",
       "type": "Range",
-      "viewingHint": "top",
-      "label": "Physical Carrier",
+      "label": "Physical Structure: Disc 1",
       "members": [
         {
           "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1",
           "type": "Range",
-          "label": "Disc 1",
-          "members": [
-            {
-              "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1-1",
-              "type": "Range",
-              "label": "Side 1",
-              "members": [
-                {
-                  "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.778667",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1-2",
-              "type": "Range",
-              "label": "Side 2",
-              "members": [
-                {
-                  "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0,246.250667",
-                  "type": "Canvas"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/2-1",
-          "type": "Range",
-          "label": "Recording: Conan Doyle speaking",
+          "label": "Side 1",
           "members": [
             {
               "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.778667",
               "type": "Canvas"
-            },
+            }
+          ]
+        },
+        {
+          "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-2",
+          "type": "Range",
+          "label": "Side 2",
+          "members": [
             {
               "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0,246.250667",
               "type": "Canvas"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/2",
+      "type": "Range",
+      "label": "Recording: Conan Doyle speaking",
+      "members": [
+        {
+          "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.778667",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0,246.250667",
+          "type": "Canvas"
         }
       ]
     }
