@@ -45,15 +45,21 @@
           "duration": 4.365351,
           "content": [
             {
-              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/2",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track02.mp4",
-                "type": "Audio",
-                "format": "audio/mp4"
-              },
-              "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/2#t=0,4.365351"
+              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/page/2",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/2",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track02.mp4",
+                    "type": "Audio",
+                    "format": "audio/mp4"
+                  },
+                  "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/2#t=0,4.365351"
+                }
+              ]
             }
           ]
         },
@@ -62,15 +68,21 @@
           "duration": 5.526349,
           "content": [
             {
-              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/3",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track03.mp4",
-                "type": "Audio",
-                "format": "audio/mp4"
-              },
-              "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1#t=0,5.526349"
+              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/page/3",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/3",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track03.mp4",
+                    "type": "Audio",
+                    "format": "audio/mp4"
+                  },
+                  "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1#t=0,5.526349"
+                }
+              ]
             }
           ]
         },
@@ -79,15 +91,21 @@
           "duration": 5.01551,
           "content": [
             {
-              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/4",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track04.mp4",
-                "type": "Audio",
-                "format": "audio/mp4"
-              },
-              "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/4#t=0,5.015510"
+              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/page/4",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/4",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track04.mp4",
+                    "type": "Audio",
+                    "format": "audio/mp4"
+                  },
+                  "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/4#t=0,5.015510"
+                }
+              ]
             }
           ]
         },
@@ -96,15 +114,21 @@
           "duration": 4.94585,
           "content": [
             {
-              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/5",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track05.mp4",
-                "type": "Audio",
-                "format": "audio/mp4"
-              },
-              "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/5#t=0,4.945850"
+              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/page/5",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/5",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track05.mp4",
+                    "type": "Audio",
+                    "format": "audio/mp4"
+                  },
+                  "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/5#t=0,4.945850"
+                }
+              ]
             }
           ]
         },
@@ -113,15 +137,21 @@
           "duration": 4.829751,
           "content": [
             {
-              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/6",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track06.mp4",
-                "type": "Audio",
-                "format": "audio/mp4"
-              },
-              "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/6#t=0,4.829751"
+              "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/page/1",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/content/anno/6",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/audio/Track06.mp4",
+                    "type": "Audio",
+                    "format": "audio/mp4"
+                  },
+                  "target": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/6#t=0,4.829751"
+                }
+              ]
             }
           ]
         }
