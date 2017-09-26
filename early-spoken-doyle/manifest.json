@@ -1,138 +1,162 @@
 {
-    "context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/manifest.json",
-    "type": "Manifest",
-    "label": "Conan Doyle Speaking",
-    "description": "Conan Doyle Speaking",
-    "attribution": "<span>Public Domain<br/><br/>The British Library Board acknowledges the intellectual property rights of those named as contributors to this recording and the rights of those not identified.<br /><br /><a href=\"http://sounds.bl.uk/Information/Legal-And-Ethical-Usage\">Legal and ethical usage</a></span>",
-    "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
-    "metadata": [
-        {
-            "label": "Identifier",
-            "value": "1CL0013693"
-        },
-        {
-            "label": "Date",
-            "value": "1930-14-05"
-        },
-        {
-            "label": "Location",
-            "value": "Small Queen's Hall, London, England, UK"
-        },
-        {
-            "label": "Speaker",
-            "value": "Doyle, Sir Arthur Conan"
-        }
-
-    ],
-    "sequences": [
-        {
-            "type": "Sequence",
-            "viewingHint": "auto-advance",
-            "startCanvas": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1",
-            "canvases": [
-                {
-                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1",
-                    "duration": 479.03,
-                    "width": 700,
-                    "height": 695,
-                    "content": [
-                        {
-                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/page/1",
-                            "type": "AnnotationPage",
-                            "items": [
-                                {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/anno/1-0",
-                                    "type": "Annotation",
-                                    "motivation": "painting",
-                                    "body": {
-                                        "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/024I-1CL0013693XX-AAZZA0.jpg",
-                                        "type": "Image",
-                                        "format": "image/jpg",
-                                        "width": 700,
-                                        "height": 695
-                                    },
-                                    "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1"
-
-                                },
-                                {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/anno/1-1",
-                                    "type": "Annotation",
-                                    "motivation": "painting",
-                                    "body": {
-                                        "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/audio/024A-1CL0013693XX-AAZZM0.mp4",
-                                        "type": "Audio",
-                                        "format": "audio/mp4"
-                                    },
-                                    "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.78"
-                                },
-                                {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/anno/1-2",
-                                    "type": "Annotation",
-                                    "motivation": "painting",
-                                    "body": {
-                                        "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/audio/024A-1CL0013693XX-ABZZM0.mp4",
-                                        "type": "Audio",
-                                        "format": "audio/mp4"
-                                    },
-                                    "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=232.78,479.03"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "structures": [
-        {
-            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1",
-            "type": "Range",
-            "viewingHint": "top",
-            "label": "Physical Carrier",
-            "members": [
-                {
-                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1",
-                    "type": "Range",
-                    "label": "Disc 1",
-                    "members": [
-                        {
-                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1-1",
-                            "type": "Range",
-                            "label": "Side 1",
-                            "members": [
-                                {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.78",
-                                    "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1-2",
-                            "type": "Range",
-                            "label": "Side 2",
-                            "members": [
-                                {
-                                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=232.78,479.03",
-                                    "type": "Canvas"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/2-1",
-                    "type": "Range",
-                    "label": "Conan Doyle speaking",
-                    "members": [
-                        {
-                            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,479.03",
-                            "type": "Canvas"
-                                
-                        }
-                    ]
-                }
-            ]
-        }
+  "context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/manifest.json",
+  "type": "Manifest",
+  "label": "Conan Doyle Speaking",
+  "description": "Conan Doyle Speaking",
+  "attribution": "<span>Public Domain<br/><br/>The British Library Board acknowledges the intellectual property rights of those named as contributors to this recording and the rights of those not identified.<br /><br /><a href=\"http://sounds.bl.uk/Information/Legal-And-Ethical-Usage\">Legal and ethical usage</a></span>",
+  "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "metadata": [
+    {
+      "label": "Identifier",
+      "value": "1CL0013693"
+    },
+    {
+      "label": "Date",
+      "value": "1930-14-05"
+    },
+    {
+      "label": "Location",
+      "value": "Small Queen's Hall, London, England, UK"
+    },
+    {
+      "label": "Speaker",
+      "value": "Doyle, Sir Arthur Conan"
+    }
+  ],
+  "posterCanvas": {
+    "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/poster",
+    "width": 700,
+    "height": 695,
+    "content": [
+      {
+        "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/page/1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/anno/1-0",
+            "type": "Annotation",
+            "motivation": "painting",
+            "body": {
+              "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/024I-1CL0013693XX-AAZZA0.jpg",
+              "type": "Image",
+              "format": "image/jpg",
+              "width": 700,
+              "height": 695
+            },
+            "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1"
+          }
+        ]
+      }
     ]
+  },
+  "sequences": [
+    {
+      "type": "Sequence",
+      "viewingHint": "auto-advance",
+      "startCanvas": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1",
+      "canvases": [
+        {
+          "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1",
+          "duration": 232.778667,
+          "content": [
+            {
+              "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/page/1",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/anno/1",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/audio/024A-1CL0013693XX-AAZZM0.mp4",
+                    "type": "Audio",
+                    "format": "audio/mp4"
+                  },
+                  "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.778667"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2",
+          "duration": 246.250667,
+          "content": [
+            {
+              "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/page/2",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/content/anno/2",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": " https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/audio/024A-1CL0013693XX-ABZZM0.mp4",
+                    "type": "Audio",
+                    "format": "audio/mp4"
+                  },
+                  "target": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0,246.250667"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1",
+      "type": "Range",
+      "viewingHint": "top",
+      "label": "Physical Carrier",
+      "members": [
+        {
+          "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1",
+          "type": "Range",
+          "label": "Disc 1",
+          "members": [
+            {
+              "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1-1",
+              "type": "Range",
+              "label": "Side 1",
+              "members": [
+                {
+                  "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.778667",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/1-1-2",
+              "type": "Range",
+              "label": "Side 2",
+              "members": [
+                {
+                  "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0,246.250667",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/range/2-1",
+          "type": "Range",
+          "label": "Recording: Conan Doyle speaking",
+          "members": [
+            {
+              "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/1#t=0,232.778667",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://britishlibrary.github.io/iiif-av-samples/early-spoken-doyle/canvas/2#t=0,246.250667",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
