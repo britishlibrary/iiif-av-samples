@@ -15,7 +15,7 @@
   "sequences": [
     {
       "type": "Sequence",
-      "viewingHint": "continuous",
+      "viewingHint": "auto-advance",
       "canvases": [
         {
           "id": "https://britishlibrary.github.io/iiif-av-samples/gapless/canvas/1",
